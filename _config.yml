@@ -1,5 +1,7 @@
 title: The Cord Suit
+
 url: http://cordsuit.github.io
+
 nav:
   - label: Songs
     path: songs
@@ -8,11 +10,16 @@ nav:
     path: records
     layout: record
   - label: Books
+    path: books
     layout: book
   - label: Articles
+    path: articles
     layout: article
   - label: Poems
+    path: poems
     layout: poem
   - label: Drawings
+    path: drawings
     layout: drawing
+
 markdown: kramdown
