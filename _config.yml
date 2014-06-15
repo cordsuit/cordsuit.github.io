@@ -15,3 +15,4 @@ nav:
     layout: poem
   - label: Drawings
     layout: drawing
+markdown: kramdown
