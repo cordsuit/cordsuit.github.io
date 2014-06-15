@@ -1,0 +1,17 @@
+title: The Cord Suit
+url: https://cordsuit.github.io
+nav:
+  - label: Songs
+    path: songs
+    layout: song
+  - label: Records
+    path: records
+    layout: record
+  - label: Books
+    layout: book
+  - label: Articles
+    layout: article
+  - label: Poems
+    layout: poem
+  - label: Drawings
+    layout: drawing

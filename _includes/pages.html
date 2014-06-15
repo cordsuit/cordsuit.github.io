@@ -1,0 +1,7 @@
+<ul>
+{% for p in site.pages %}
+  {% if include.layout == p.layout %}
+    <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,7 @@
+<nav>
+  <ul>
+    {% for n in site.nav %}
+    <li><a href="{{ site.url }}/{{ n.path }}">{{ n.label }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
